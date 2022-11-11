@@ -1,2 +1,7 @@
-devopscademy
+#!/bin/bash
 
+
+echo current user "$(whoami)"
+echo current working directory "$(pwd)" 
+echo "$(ls)" 
+echo current date "$(date)"
