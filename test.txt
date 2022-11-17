@@ -6,4 +6,4 @@ echo current working directory "$(pwd)"
 echo "$(ls)" 
 echo current date "$(date)"
 echo display available RAM "$(free -m)"
-proba1
+proba2
